@@ -1,4 +1,6 @@
-# Cheatsheets
+# ![Cheatsheets](/assets/cheatsheets.png)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 An open-source collection of cheatsheets for various resources for developers. You can view the individual cheatsheets by opening their respective files in this repo. However, a better way to utilize them is by opening them using Google Colab or Binder by clicking the respective button below their listing in this [Read me](README.md).
 
@@ -13,3 +15,5 @@ This is an open-source project. We invite your participation through issues and 
 ## List of Contributors
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=rajtilakjee/cheatsheets)
+
+## Additional Notes
