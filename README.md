@@ -1,4 +1,4 @@
-# cheatsheets
+# Cheatsheets
 A collection of cheatsheets for various resources.
 
 - Numpy Cheatsheet  
