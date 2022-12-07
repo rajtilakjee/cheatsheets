@@ -50,5 +50,10 @@ MySQL is an open-source relational database management system. This cheatsheet c
 
 ### Add a new column into a table
 
-`ALTER TABLE table_name
-ADD [COLUMN] column_name column_definition [FIRST|AFTER existing_column];`
+`ALTER TABLE table_name ADD [COLUMN] column_name column_definition [FIRST|AFTER existing_column];`
+
+### Delete a column from a table
+
+`ALTER TABLE table_name DROP [COLUMN] column_name;`
+
+
